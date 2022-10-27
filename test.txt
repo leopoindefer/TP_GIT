@@ -1,1 +1,1 @@
-Résolution de conflit
+Merger 2 branches
